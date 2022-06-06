@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "7e2c12ecfdb088ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd38d4f42bc85b97",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5b2089fe8d83b44a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d8863152cad3e1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04f39e9bb0f83e0e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "005a04050334f6cf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f9b51149eceb8a38",
+    "type": "split",
+    "children": [
+      {
+        "id": "31c7abeaecbf50c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f99917b766b07be3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "bd38d4f42bc85b97",
+  "lastOpenFiles": [
+    "Conditional Statements.md",
+    "General Description.md",
+    "Loops.md",
+    "VariablesFolder/Numeric Constants.md",
+    "VariablesFolder/Variables.md",
+    "VariablesFolder/Constants.md",
+    "VariablesFolder/Type inference.md",
+    "VariablesFolder/Type Conversions.md",
+    "VariablesFolder/Zero values.md",
+    "VariablesFolder/Basic Types.md"
+  ]
+}
