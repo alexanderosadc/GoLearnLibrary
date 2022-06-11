@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bd38d4f42bc85b97",
+        "id": "8a88e835c9ab8e14",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Closures.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Closures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bd38d4f42bc85b97",
+  "active": "8a88e835c9ab8e14",
   "lastOpenFiles": [
+    "Closures.md",
+    "FunctionsFolder/Functions.md",
     "Conditional Statements.md",
-    "General Description.md",
+    "Functions are values.md",
+    "Maps.md",
+    "DataStructuresFolder/DataStructures.md",
+    "DataStructuresFolder/Arrays.md",
+    "DataStructuresFolder/Slices.md",
     "Loops.md",
-    "VariablesFolder/Numeric Constants.md",
-    "VariablesFolder/Variables.md",
-    "VariablesFolder/Constants.md",
-    "VariablesFolder/Type inference.md",
-    "VariablesFolder/Type Conversions.md",
-    "VariablesFolder/Zero values.md",
-    "VariablesFolder/Basic Types.md"
+    "DataStructuresFolder/Range.md"
   ]
 }

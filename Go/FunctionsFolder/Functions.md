@@ -25,3 +25,5 @@ func add(x, y int) int {
 
 [[Multiple Results]]
 [[Named return values]]
+[[Functions are values]]
+[[Closures]]

@@ -25,3 +25,33 @@ if v := math.Pow(x, n); v < lim {
 		fmt.Printf("%g >= %g\n", v, lim)
 }
 ```
+
+## Switch
+ Important difference between other languages and Go's switch cases need not be constants, and the values involved need not be integers.
+```
+switch os := runtime.GOOS; os {
+	case "darwin":
+		fmt.Println("OS X.")
+	case "linux":
+		fmt.Println("Linux.")
+	default:
+		// freebsd, openbsd,
+		// plan9, windows...
+		fmt.Printf("%s.\n", os)
+	}
+```
+
+### Switch with no condition
+Switch without a condition is the same as `switch true`.
+
+```
+t := time.Now()
+	switch {
+	case t.Hour() < 12:
+		fmt.Println("Good morning!")
+	case t.Hour() < 17:
+		fmt.Println("Good afternoon.")
+	default:
+		fmt.Println("Good evening.")
+	}
+```
